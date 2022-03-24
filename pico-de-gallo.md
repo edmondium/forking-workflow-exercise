@@ -1,3 +1,5 @@
+Pico de gallo is necessary for taco!
+
 Pico de Gallo recipe:
 * 1/2 finely chopped onion
 * 1 medium chili
