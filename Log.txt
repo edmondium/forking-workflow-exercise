@@ -1,0 +1,77 @@
+commit 9cc5ffc4ce7d920eb6b2e06ae42c5518609a2a2e
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Tue Apr 12 14:43:21 2022 +0700
+
+    this my commit message; closes #9
+
+commit 5ea787df574d17c99e4c0db0e4bc6dd3c6b8c058
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Tue Apr 12 14:38:32 2022 +0700
+
+    this is my commit message; closes #7
+
+commit 25be133533de9ee09cb85845d5a82f77f155a21e
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Tue Apr 12 14:00:11 2022 +0700
+
+    this is my commit message; closes #7
+
+commit 09df9dc658a887427965cf5b5b5be8c7a3953f13
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Tue Apr 12 13:54:55 2022 +0700
+
+    Indonesian taco
+
+commit f29c65012ed170679656444915411ad0cbd063b6
+Merge: b8bf6c7 97c879a
+Author: Ingrid Strandberg <ingrid.strandberg@chalmers.se>
+Date:   Thu Mar 24 06:12:34 2022 -0500
+
+    Merge pull request #5 from l-gar-alv/laura-semlarecipe
+    
+    Laura semlarecipe; closes #3
+
+commit b8bf6c7b26d0176a6ed713539547c320f85b8e6c
+Merge: a8a2fe1 0110705
+Author: Ingrid Strandberg <ingrid.strandberg@chalmers.se>
+Date:   Thu Mar 24 06:06:43 2022 -0500
+
+    Merge pull request #4 from PotatisMaster/pico-de-gallo-recipe
+    
+    added recipe for pico de gallo
+
+commit 97c879ace3c6fcf843077dad660379bea5bae974
+Author: lauraga <74964780+l-gar-alv@users.noreply.github.com>
+Date:   Thu Mar 24 12:05:09 2022 +0100
+
+    add taco semla recipe; closes #3
+
+commit 011070567ba7946325bda0e216c9a255706523e5
+Author: potatismaster <hannaulinn@gmail.com>
+Date:   Thu Mar 24 12:05:07 2022 +0100
+
+    fixed error eith not containing taco
+
+commit 7c6a6abb5482a26b9aff259ae3460cbf6de1e2b8
+Author: lauraga <74964780+l-gar-alv@users.noreply.github.com>
+Date:   Thu Mar 24 12:03:25 2022 +0100
+
+    add semla recipe; closes #3
+
+commit 57b799375f265cfb5f28b074b324062517792e47
+Author: potatismaster <hannaulinn@gmail.com>
+Date:   Thu Mar 24 11:58:34 2022 +0100
+
+    added recipe for pico de gallo
+
+commit fbd8aba6c7e53d433e13ca3a6efa3174b13d98ae
+Author: edmondium <nicko@uin-suska.ac.id>
+Date:   Thu Mar 24 11:52:57 2022 +0100
+
+    test
+
+commit a8a2fe1c9f32739d0368fa0ab7ed124510ddaba0
+Author: Ingrid Strandberg <ingrid.strandberg@chalmers.se>
+Date:   Thu Mar 24 11:38:56 2022 +0100
+
+    Initial commit
